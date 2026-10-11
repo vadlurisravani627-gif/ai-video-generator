@@ -1,0 +1,9 @@
+spring.application.name=backend
+
+# MongoDB Atlas connection
+spring.mongodb.uri=mongodb+srv://vadlurisravya427_db_user:sravya2007@cluster0.zwzt4n6.mongodb.net/ai_video_generator?retryWrites=true&w=majority&appName=Cluster0
+
+server.port=8080
+
+groq.api.key=YOUR_GROQ_API_KEY_HERE
+pollinations.api.key=sk_jJD2Z6833RLD6z5FKr43LLz77SEHyEKR
